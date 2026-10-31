@@ -1,9 +1,9 @@
 # [Definir nome ainda]
 
 **Disciplina:** Introdução à Inteligência Artificial  
-**Semestre:** [2026.2]  
-**Professor:** [Andre Luis Fonseca Faustino]  
-**Turma:** [T01]
+**Semestre:** 2026.2  
+**Professor:** Andre Luis Fonseca Faustino 
+**Turma:** T01
 
 ## Integrantes do Grupo
 * Lucas Emanuel da Paz Ribeiro (20250051945)
