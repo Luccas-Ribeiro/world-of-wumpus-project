@@ -7,25 +7,25 @@
 
 ## Integrantes do Grupo
 * Lucas Emanuel da Paz Ribeiro (20250051945)
-* Nome Completo (Matrícula)
-* Nome Completo (Matrícula)
-* ...
+* Erick Alberth da Silva Santos (20250044619)
+* Pedro Vitor de de Oliveira Moura (20230036093)
 
 ## Descrição do Projeto
 [Descreva aqui em 1 ou 2 parágrafos a proposta do projeto e as tecnologias utilizadas para seu desenvolvimento]
+Nesse projeto é apresentado as ações de um agente inteligente no Mundo de Wumpus.  
 
 ## Guia de Instalação e Execução
 [Descreva os passos para instalação e execução do projeto. Inclua um passo a passo claro de como utilizar a proposta desenvolvida. Veja o exemplo abaixo.]
 
 ### 1. Instalação das Dependências
-Certifique-se de ter o **Python 3.x** instalado. Clone o repositório e instale as bibliotecas listadas no `requirements.txt`:
+Certifique-se de ter o **Python 3.14.7** instalado. Clone o repositório e instale as bibliotecas listadas no `requirements.txt`:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/usuario/nome-do-repo.git](https://github.com/usuario/nome-do-repo.git)
+git clone https://github.com/Luccas-Ribeiro/world-of-wumpus-project.git
 
 # Entre na pasta do projeto
-cd nome-do-repo
+cd world-of-wumpus-project
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -33,14 +33,12 @@ pip install -r requirements.txt
 
 ### 2. Como Executar
 
-Execute o comando abaixo no terminal para iniciar o servidor local:
+Execute o comando abaixo no terminal para iniciar o programa:
 
 ```bash
 # Exemplo para Streamlit
-streamlit run src/app.py
+python3 main.py
 ```
-
-Se necessário, especifique a porta ou url de acesso, ex.: http://localhost:8501
 
 ## Estrutura dos Arquivos
 
